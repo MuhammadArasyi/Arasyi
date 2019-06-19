@@ -16,14 +16,14 @@
 <div id="cv" class="instaFade">
     <div class="mainDetails">
         <div id="headshot" class="quickFade">
-        <img src="Kucing.jpg" alt="Muhammad Arasyi" />
+        
         </div>
         
         <div id="name">
             <h1 class="quickFade delayTwo">Curriculum Vitae</h1>
             <h2 class="quickFade delayThree">Muhammad Arasyi</h2>
         </div>
-        
+        <img src="Kucing.jpg" alt="Muhammad Arasyi" />
         <div id="contactDetails" class="quickFade delayFour">
         <table>
             <tr>
