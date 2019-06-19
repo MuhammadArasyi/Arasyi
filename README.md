@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Muhammad Arasyi - Curriculum Vitae</title>
@@ -15,7 +15,7 @@
 <div id="cv" class="instaFade">
     <div class="mainDetails">
         <div id="headshot" class="quickFade">
-            <img src="Kucing.jpg" alt="Muhammad Arasyi" />
+            <img src="Kucing.jpg" alt="Kucing.jpg" />
         </div>
         
         <div id="name">
@@ -124,7 +124,6 @@
                     <p class="subDetails">2005-2011<p>
                     
                 </article>
-                
                 <article>
                     <h4>MTSs Al-Muslimun</h4>
                     <p class="subDetails">2011-2014</p>
@@ -133,7 +132,7 @@
                 <article>
                     <h4>MAS Al-Muslimun</h4>
                     <p class="subDetails">2014-2017</p>
-                </article><br>
+                </article>
                 <article>
                     <h4>Tekin Informatika Universitas Malikussaleh</h4>
                     <p class="subDetails">2017-...</p>
