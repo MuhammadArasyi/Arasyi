@@ -99,13 +99,13 @@
             <div class="sectionContent">
                 <table width=500px>
                 <tr>
-                    <td>HTML</td><td>Software</td><td>Microsoft Office</td>
+                    <td>HTML</tr><tr>Software</tr><tr>Microsoft Office</td>
                 </tr>
                 <tr>
-                    <td>PHP</td><td>Network Configuration</td><td>Hardware Repairing</td>
+                    <td>PHP</tr><tr>Network Configuration</tr><tr>Hardware Repairing</td>
                 </tr>
                 <tr>
-                    <td>LAN</td><td>Basic Database</td><td>Photoshop</td>
+                    <td>LAN</tr><tr>Basic Database</tr><tr>Photoshop</td>
                 </tr>
                 </table><br>
             </div>
