@@ -26,7 +26,7 @@
       
    
         <body>
-        <img src="Kucing.jpg" alt="Muhammad Arasyi" />
+        <img src="https://cdn2.tstatic.net/jakarta/foto/bank/images/ilustrasi-kucing_20180618_155243.jpg" alt="Muhammad Arasyi" />
         </body>
         <div id="contactDetails" class="quickFade delayFour">
         <table>
