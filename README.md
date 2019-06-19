@@ -11,6 +11,7 @@
 <link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
 
 </head>
+<body bgcolor="#f6e6b4" width="800px">
 <body id="top">
 <div id="cv" class="instaFade">
     <div class="mainDetails">
