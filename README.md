@@ -97,15 +97,15 @@
             </div>
             
             <div class="sectionContent">
-                <table width=500px>
+                table width=500px>
                 <tr>
-                    <td>HTML</td><td>Software</td><td>Microsoft Office</td>
+                    <p>HTML</p><p>Software</p><p>Microsoft Office</p>
                 </tr>
                 <tr>
-                    <td>PHP</td><td>Network Configuration</td><td>Hardware Repairing</td>
+                    <p>PHP</p><p>Network Configuration</p><p>Hardware Repairing</p>
                 </tr>
                 <tr>
-                    <td>LAN</td><td>Basic Database</td><td>Photoshop</td>
+                    <p>LAN</p><p>Basic Database</p><p>Photoshop</p>
                 </tr>
                 </table><br>
             </div>
