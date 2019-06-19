@@ -135,7 +135,6 @@
                     <p class="subDetails">2014-2017</p>
                 </article><br>
                 <article>
-                    <h2>Non-Formal</h2><br>
                     <h4>Tekin Informatika Universitas Malikussaleh</h4>
                     <p class="subDetails">2017-...</p>
             </div>
@@ -143,7 +142,7 @@
         </section><br><br>
         <section>
             <div>
-            <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;Demikian Curriculum Vitae ini saya buat dengan Sebenar benarnya,Untuk dapat dipergunakan sebagai mana mestinya.</p>
+            <p>Curriculum Vitae ini saya buat dengan Sebenar benarnya,Untuk dapat dipergunakan sebagai mana mestinya.</p>
             <br><br><br><br><br><br>
             <p align="right">Hormat Saya,<br><br><br>Muhammad Arasyi</p>
         </section>
