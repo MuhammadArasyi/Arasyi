@@ -15,6 +15,7 @@
 <div id="cv" class="instaFade">
     <div class="mainDetails">
         <div id="headshot" class="quickFade">
+        <img src="Kucing.jpg" alt="Muhammad Arasyi" />
         </div>
         
         <div id="name">
