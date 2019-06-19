@@ -97,17 +97,36 @@
             </div>
             
             <div class="sectionContent">
-                table width=500px>
+                
                 <tr>
-                    <p>HTML</p><p>Software</p><p>Microsoft Office</p>
+                    <p>HTML</p>
+                    <tr>
+                    </tr>
+                    <p>Software</p>
+                    <tr>
+                    </tr>
+                    <p>Microsoft Office</p>
+                  
                 </tr>
                 <tr>
-                    <p>PHP</p><p>Network Configuration</p><p>Hardware Repairing</p>
+                    <p>PHP</p>
+                    <tr>
+                    </tr>
+                    <p>Network Configuration</p>
+                    <tr>
+                    </tr>
+                    <p>Hardware Repairing</p>
                 </tr>
                 <tr>
-                    <p>LAN</p><p>Basic Database</p><p>Photoshop</p>
+                    <p>LAN</p>
+                    <tr>
+                    </tr>
+                    <p>Basic Database</p>
+                    <tr>
+                    </tr>
+                    <p>Photoshop</p>
                 </tr>
-                </table><br>
+                <br>
             </div>
             <div class="clear"></div>
         </section>
