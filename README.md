@@ -23,8 +23,8 @@
             <h1 class="quickFade delayTwo">Curriculum Vitae</h1>
             <h2 class="quickFade delayThree">Muhammad Arasyi</h2>
         </div>
-        </style>
-        </head>
+      
+   
         <body>
         <img src="Kucing.jpg" alt="Muhammad Arasyi" />
         </body>
