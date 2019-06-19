@@ -26,7 +26,7 @@
       
    
         <body>
-        <img src="https://cdn2.tstatic.net/jakarta/foto/bank/images/ilustrasi-kucing_20180618_155243.jpg" alt="Muhammad Arasyi" height="30" width="30" />
+        <img src="https://cdn0-production-images-kly.akamaized.net/zhpb5ojMw2ZLZicGEABh7y7dntk=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2754932/original/005940800_1552970791-fotoHL_kucing.jpg" alt="Muhammad Arasyi" height="100" width="100" />
         </body>
         <div id="contactDetails" class="quickFade delayFour">
         <table>
