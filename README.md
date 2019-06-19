@@ -26,7 +26,7 @@
       
    
         <body>
-        <img src="https://cdn0-production-images-kly.akamaized.net/zhpb5ojMw2ZLZicGEABh7y7dntk=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2754932/original/005940800_1552970791-fotoHL_kucing.jpg" alt="Muhammad Arasyi" height="100" width="100" />
+        <img src="https://cdn0-production-images-kly.akamaized.net/zhpb5ojMw2ZLZicGEABh7y7dntk=/640x640/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2754932/original/005940800_1552970791-fotoHL_kucing.jpg" alt="Muhammad Arasyi" height="200" width="200" />
         </body>
         <div id="contactDetails" class="quickFade delayFour">
         <table>
@@ -147,7 +147,7 @@
                     <h4>MIN Lhoksukon</h4>
                     <p class="subDetails">2005-2011<p>
                     
-                </article>
+            
                 <article>
                     <h4>MTSs Al-Muslimun</h4>
                     <p class="subDetails">2011-2014</p>
@@ -160,17 +160,17 @@
                 <article>
                     <h4>Tekin Informatika Universitas Malikussaleh</h4>
                     <p class="subDetails">2017-...</p>
-            </div>
+          
             <div class="clear"></div>
-        </section><br><br>
+      <br><br>
         <section>
             <div>
             <p>Curriculum Vitae ini saya buat dengan Sebenar benarnya,Untuk dapat dipergunakan sebagai mana mestinya.</p>
             <br><br><br><br><br><br>
             <p align="right">Hormat Saya,<br><br><br>Muhammad Arasyi</p>
-        </section>
         
-    </div>
+        
+ 
 </div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -181,5 +181,4 @@ var pageTracker = _gat._getTracker("UA-3753241-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-</body>
-</html>
+
